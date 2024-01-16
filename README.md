@@ -8,10 +8,10 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61403273?v=4" />
-   <h3 align="center">¡Hey 👋! OsdroiX Quintero 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋!Soy OsdroiX Quintero 👨🏻‍💻</h3>
 </p>
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<center><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -19,7 +19,20 @@
 </div>
 
 
-
+<p>
+  Habilidades Técnicas.
+<br>
+  Java: Gestiono proyectos con alta habilidad utilizando Java para el desarrollo.<br>
+  MySQL: Experiencia sólida en el manejo de bases de datos MySQL.<br>
+  Front-end: Dominio de tecnologías como HTML, CSS, y JavaScript (JS).<br>
+  Metodologías: Experiencia en el uso de metodologías ágiles para la gestión de proyectos.<br>
+  Desarrollo Web: Conocimientos en el desarrollo web utilizando tecnologías como Angular, React y herramientas web.
+<br>
+  Lenguajes de Programación: Python, Node.js, MongoDB, PHP, C/C#/C++.<br>
+  Herramientas Adicionales: Experiencia en el uso de Firebase para aplicaciones en tiempo real.<br>
+  Experiencia y Colaboración<br>
+  Mi enfoque se centra en la gestión eficiente y responsable de proyectos. Colaboro en equipos, manejando situaciones de alta demanda y contribuyendo a mejoras continuas tanto en el equipo como en los proyectos.
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
